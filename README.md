@@ -86,6 +86,22 @@
             </ul>
         </td>
     </tr>
+    <tr>
+        <td style="border: 1px solid black; border-collapse: collapse;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" heigth="32px" width="32px"/>
+        </td>
+        <td style="border: 1px solid black; border-collapse: collapse;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML" alt="HTML" heigth="32px" width="32px"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" alt="CSS" heigth="32px" width="32px"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React" alt="React" heigth="32px" width="32px"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" title="WebStorm" alt="WebStorm" heigth="32px" width="32px"/>
+        </td>
+        <td style="border: 1px solid black; border-collapse: collapse;">
+            <ul>
+                <li><a target="_blank" style="text-decoration: none;" href="https://github.com/sysfutex-tasty-tales/tasty-tales-frontend">Tasty Tales</a></li>
+            </ul>
+        </td>
+    </tr>
     </table>
 </div>
 <br/>
