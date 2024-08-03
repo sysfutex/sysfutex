@@ -29,12 +29,15 @@
             <img src="https://www.thymeleaf.org/images/favicon.ico" title="Thymeleaf" alt="Thymeleaf" heigth="32px" width="32px"/>
             <img src="https://avatars.githubusercontent.com/u/4086779" title="MapStruct" alt="MapStruct" heigth="32px" width="32px"/>
             <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Flyway_logo.svg" title="Flyway" alt="Flyway" heigth="32px" width="32px"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" title="Hibernate" alt="Hibernate" heigth="32px" width="32px"/>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Amazon-S3-Logo.svg/428px-Amazon-S3-Logo.svg.png?20220427001138" title="S3" alt="S3" heigth="32px" width="32px"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" heigth="32px" width="32px"/>
         </td>
         <td style="border: 1px solid black; border-collapse: collapse;">
             <ul>
-                <li><a target="_blank" style="text-decoration: none;" href="https://github.com/sysfutex-holiday-camp/holiday-camp-backend">Holiday Camp</a></li>
                 <li><a target="_blank" style="text-decoration: none;" href="https://github.com/sysfutex/leetcode/tree/main/java">LeetCode</a></li>
+                <li><a target="_blank" style="text-decoration: none;" href="https://github.com/sysfutex-holiday-camp/holiday-camp-backend">Holiday Camp</a></li>
+                <li><a target="_blank" style="text-decoration: none;" href="https://github.com/sysfutex-tasty-tales/tasty-tales-backend">Tasty Tales</a></li>
             </ul>
         </td>
     </tr>
