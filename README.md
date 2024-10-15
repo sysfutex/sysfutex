@@ -43,7 +43,8 @@
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="32px" height="32px"/>
                 </td>
                 <td>
-                    :thread: <a target="_blank" href="https://github.com/sysfutex/kthread">kthread</a>
+                    :thread: <a target="_blank" href="https://github.com/sysfutex/kthread">kthread</a><br>
+                    :scroll: <a target="_blank" href="https://github.com/sysfutex/cimpllog">cimpllog</a>
                 </td>
             </tr>
         </tbody>
